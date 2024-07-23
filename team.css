@@ -50,8 +50,8 @@ body {
 .card_Container .card {
     position: relative;
     width: 300px;
-    height: 300px;
-    margin: 200px;
+    height: 400px;
+    margin: 20px;
     overflow: hidden;
     box-shadow: 0 30px 30px -20px rgba(0, 0, 0, 1),
         inset 0 0 0 1000px rgba(67, 52, 109, .6);
