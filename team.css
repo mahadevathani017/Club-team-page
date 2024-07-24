@@ -12,10 +12,12 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #cbc9c8;
+    background-color:rgba(172, 167, 167, 0.963);
 
 }
-
+/* .wrapper{
+    background-color: black;
+} */
 
 .wrapper .title {
     text-align: center;
@@ -25,7 +27,7 @@ body {
 .title h4 {
     display: inline-block;
     padding: 20px;
-    color: #585757;
+    color: #b45729;
     font-size: 50px;
     font-weight: 500;
     letter-spacing: 1.2px;
